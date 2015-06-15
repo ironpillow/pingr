@@ -1,6 +1,8 @@
 pingr
 =====
 
+[![Build Status](https://travis-ci.org/mfs/pingr.svg?branch=master)](https://travis-ci.org/mfs/pingr)
+
 ## Description
 
 This is a simple ping utility written in Rust using libpnet. Pings are sent in
