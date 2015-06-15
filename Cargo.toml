@@ -1,0 +1,13 @@
+[package]
+name = "pingr"
+version = "0.1.0"
+authors = ["Mike Sampson <mike@sambodata.com>"]
+
+[dependencies]
+libc = "*"
+time = "*"
+
+[dependencies.pnet]
+git = "https://github.com/libpnet/libpnet.git"
+
+
